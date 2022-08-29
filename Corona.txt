@@ -1,0 +1,4 @@
+set CORONA_PATH=C:\Program Files (x86)\Corona Labs\Corona\
+set CORONA_ROOT=C:\Program Files (x86)\Corona Labs\Corona\Native
+set CORONA_SDK_PATH=C:\Program Files (x86)\Corona Labs\Corona\
+set PATH=
